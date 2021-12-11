@@ -41,6 +41,16 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=renanrcp&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Renan's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=renanrcp&show_icons=true&theme=radical" alt="Renan's Github Stats" width="60%">
   
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=renanrcp&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+
+### 🖥️ PC Specs
+- 📹 Nvidia RTX 3060
+- 💡 AMD Ryzen 5 3400g
+- 📝 16GB RAM
+- ⌨️  Corsair K68
+- 🖱️ Logitech G403 Hero
+- 🎧 Corsair Void Elite Wireless
+- 👩‍🦱 Asus PRIME A320M-K/BR
+- ⚛️ Pop Os 20.04
