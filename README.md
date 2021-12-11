@@ -41,7 +41,7 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=renanrcp&show_icons=true&theme=radical" alt="Renan's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=renanrcp&count_private=true&show_icons=true&theme=radical" alt="Renan's Github Stats" width="60%">
   
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=renanrcp&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
 
