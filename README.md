@@ -20,7 +20,7 @@
 
 ### I am a Full Stack Devoler at [GeekHunter](https://geekhunter.com.br)
 - 🔭 I’m currently working on my Audio library [NextAudio](https://github.com/NextAudio/NextAudio) :grin:
-- 💬 Ask me about anything, I am happy to help :smile:
+- 💬 Ask me about anything, I am glad to help :smile:
 
 ### Languages and Tools: 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
