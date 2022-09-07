@@ -43,7 +43,7 @@
 
   <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=renanrcp&count_private=true&show_icons=true&theme=radical" alt="Renan's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=renanrcp&show_icons=true&hide_border=true&theme=radical&layout=compact" width="50%" alt="Renans's Top Languages">
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=renanrcp&show_icons=true&hide_border=true&theme=radical&layout=compact" width="40%" alt="Renans's Top Languages">
 
 ### 🖥️ PC Specs
 - 📹 Nvidia RTX 3060
