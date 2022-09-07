@@ -40,10 +40,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 ### :zap: Github Stats
-
   <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=renanrcp&count_private=true&show_icons=true&theme=radical" alt="Renan's Github Stats" width="60%">
-  
- <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=renanrcp&show_icons=true&hide_border=true&theme=radical&layout=compact" width="37%" alt="Renans's Top Languages">
+ <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=renanrcp&show_icons=true&hide_border=true&theme=radical&layout=compact" width="45%" alt="Renans's Top Languages">
  <br>
 
 ### 🖥️ PC Specs
