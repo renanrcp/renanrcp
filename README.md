@@ -10,7 +10,7 @@
   <h1 align="center"><b>Hello there, I'm Renan 👋</b></h1>
 </p>
 <p>
-  <h4 align="center"><b>"Omg this code. Wtf dude"</b></h4>
+  <h4 align="center"><b>"Let's go forward because kart does not reverse 🏎"</b></h4>
 </p>
 <p align="center">
 <br>
