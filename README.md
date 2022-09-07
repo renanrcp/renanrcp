@@ -48,7 +48,7 @@
 - 📹 Nvidia RTX 3060
 - 💡 AMD Ryzen 5 3400g
 - 📝 16GB RAM
-- ⌨️  Corsair K68
+- ⌨️  Corsair K68 RGB
 - 🖱️ Logitech G403 Hero
 - 🎧 Corsair Void Elite Wireless
 - 👩‍🦱 Asus PRIME A320M-K/BR
