@@ -20,7 +20,7 @@
 
 ### I am a Backend Developer at [Dotkon](https://dotkon.co/)
 - 🐧 I’m currently working on my CPPS [Club Penguin Avalanche](https://cpavalanche.net) :grin:
-- 💻 I'm the Game Developer and Tech Lead of the [Club Penguin Avalanche](https://cpavalanche.net) 🤩
+- 💻 I'm the Game Developer and the Tech Lead at [Club Penguin Avalanche](https://cpavalanche.net) 🤩
 - 💬 Ask me about anything, I'll be glad to help :smile:
 
 ### Languages and Tools: 
