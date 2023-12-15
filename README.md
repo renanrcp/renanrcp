@@ -18,8 +18,9 @@
 <a href="https://www.linkedin.com/in/renanrcp/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 
-### I am a Backend Developer
-- 🔭 I’m currently working on my Audio library [NextAudio](https://github.com/NextAudio/NextAudio) :grin:
+### I am a Backend Developer at [Dotkon](https://dotkon.co/)
+- 🐧 I’m currently working on my CPPS [Club Penguin Avalanche](https://cpavalanche.net) :grin:
+- 💻 I'm the Game Developer and Tech Lead of the [Club Penguin Avalanche](https://cpavalanche.net) 🤩
 - 💬 Ask me about anything, I'll be glad to help :smile:
 
 ### Languages and Tools: 
@@ -28,6 +29,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -38,6 +40,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 
 ### :zap: Github Stats
   <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=renanrcp&count_private=true&show_icons=true&theme=radical" alt="Renan's Github Stats" width="60%">
@@ -52,4 +56,4 @@
 - 🖱️ Logitech G403 Hero
 - 🎧 Corsair Void Elite Wireless
 - 👩‍🦱 Asus PRIME A320M-K/BR
-- ⚛️ Pop Os 20.04
+- ⚛️ Pop Os 22.04
