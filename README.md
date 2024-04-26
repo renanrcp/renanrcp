@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/renanrcp/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 
-### I am a Backend Developer at [Dotkon](https://dotkon.co/)
+### I am a Backend Senior Developer
 - 🐧 I’m currently working on my CPPS [Club Penguin Avalanche](https://cpavalanche.net) :grin:
 - 💻 I'm the Game Developer and the Tech Lead at [Club Penguin Avalanche](https://cpavalanche.net) 🤩
 - 💬 Ask me about anything, I'll be glad to help :smile:
